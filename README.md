@@ -1,8 +1,8 @@
-# 🎮 C Cybersecurity Training Game
+# 🎮 C++ Cybersecurity Training Game
 
-An interactive **terminal-based cybersecurity simulation game** developed in **native C** to teach foundational offensive and defensive security concepts through progressive hands-on challenges.
+An interactive **terminal-based cybersecurity simulation game** developed in **native C++** to teach foundational offensive and defensive security concepts through progressive hands-on challenges.
 
-The game recreates a command-line style learning environment featuring scoring systems, simulated security labs, networking exercises, and authentication challenges — all implemented using core procedural C without external frameworks.
+The game recreates a command-line style learning environment featuring scoring systems, simulated security labs, networking exercises, and authentication challenges — all implemented using core procedural C++ without external frameworks.
 
 ---
 
@@ -293,10 +293,9 @@ cyber_game.exe
 # 👨‍💻 Project Domain
 
 * Cybersecurity Education
-* C Systems Programming
+* C++ Systems Programming
 * Terminal Application Development
 * Interactive Simulations
 * Defensive & Offensive Security Training
 * CLI Game Development
-
 
